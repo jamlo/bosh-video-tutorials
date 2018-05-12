@@ -1,5 +1,4 @@
 # CloudFoundry BOSH Tutorial Videos
----
 
 ## What
 This is a list of YouTube tutorial videos that tries to go through different aspects of [CloudFoundry BOSH](https://bosh.io/). It tries to explain its different compenents with the assumption that listener did not use BOSH before, and then building up on that. The vidoes are meant to be 20 minutes in length or less, where each video tries to focus on one point and explain it thoroughly. [Feedback](https://github.com/jamlo/bosh-video-tutorials/issues) is welcomed.
