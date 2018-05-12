@@ -1,13 +1,16 @@
-# What
-This is a list of YouTube tutorial videos that tries to go through different aspects of [Cloudfoundry BOSH](https://bosh.io/). It tries to explain its different compenents with the assumption that listener did not use BOSH before, and then building up on that. The vidoes are meant to be 20 minutes in length or less, where each video tries to focus on one point and explain it thoroughly. [Feedback](https://github.com/jamlo/bosh-video-tutorials/issues) is welcomed.
+# CloudFoundry BOSH Tutorial Videos
+---
 
-# Why
+## What
+This is a list of YouTube tutorial videos that tries to go through different aspects of [CloudFoundry BOSH](https://bosh.io/). It tries to explain its different compenents with the assumption that listener did not use BOSH before, and then building up on that. The vidoes are meant to be 20 minutes in length or less, where each video tries to focus on one point and explain it thoroughly. [Feedback](https://github.com/jamlo/bosh-video-tutorials/issues) is welcomed.
+
+## Why
 I spent more than 2 years as a member of the BOSH engineering team. When starting on the team, and for many months, finding resources to help myself understand BOSH better wasn't particularly easy. These videos try to fill that gap, especially for the subset of users that find video tutorials helpful in learning a new technology. Hope they help.
 
-# Personas
+## Personas
 BOSH is used by several different groups of people with different needs and goals. These groups are nicely defined on the [BOSH website](https://bosh.io/docs/personas/). Each video below will be tagged with the target personas that it will be most relevent for.
 
-# Videos
+## Videos
 
 1. [Introduction to BOSH](https://www.youtube.com/watch?v=kKcUz6IlkJo): A quick introduction to BOSH and its opensource community.
 	- Target Personas: All.
