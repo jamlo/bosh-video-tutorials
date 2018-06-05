@@ -35,4 +35,9 @@ BOSH is used by several different groups of people with different needs and goal
 	- Target Personas: Director Operator, Cloud Operator, Internal Developer, CPI Developer.
 9. [Dev Environment Setup - Part 5](https://www.youtube.com/watch?v=AMaQRlLPp04): Exploring the insides of the BOSH VM.
 	- Target Personas: Director Operator, Internal Developer, CPI Developer.
+	
+---
+
+10. [Creating a Deployment - Part 1 - The Theory](https://youtu.be/s4e0yGFgsPM): A theoretical overview for creating a deployment through BOSH.
+	- Target Personas: All.
 
